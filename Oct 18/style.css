@@ -1,0 +1,85 @@
+body{
+  background-image: url('images/homebg.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+.text {
+  background-image: linear-gradient(rgba(4, 9, 30, 0.7),rgba(4, 9, 30, 0.7));
+  width: 1350px;
+  height: 800px;
+}
+
+.text p{
+	font-size: 70px;
+}
+
+.nav-wrapper img{
+	width: 100px;
+}
+
+.links img{
+	width: 50px;
+}
+
+.btn-floating halfway-fab waves-effect waves-light red{
+	width: 70px;
+}
+
+.twice{
+  width: 500px;
+  margin: 0 auto;
+}
+
+.between{
+  background-image: linear-gradient(rgba(4, 9, 30, 0.7),rgba(4, 9, 30, 0.7)),url(images/bg.jpg); 
+}
+
+.twice p{
+  text-align: center;
+  font-family: Lucida Console;
+  color: pink;
+  font-size: 25px;
+  box-shadow: 5px 10px #888888
+}
+
+.materialboxed{
+  align-items: center;
+  position: center;
+  object-position: center;
+  margin-left: 0 auto;
+  margin-right: 0 auto;
+}
+
+.box{
+  background: purple;
+  padding: 10px;
+}
+
+  .autumn {
+    position: relative;
+    margin-bottom: auto;
+    margin-left: 500px;
+    margin-right: auto;
+  }
+  .fill{
+    font-family: sans-serif;
+    color: red;
+    font-size: 30px;
+  }
+  .rec{
+    font-family: sans-serif;
+    font-size: 60px;
+  }
+  .autumn,input{
+    width: 400px;
+    height: 30px;
+    font-size: 20px;
+  }
+  .valid{
+    position: relative;
+    margin-top: 600px;
+    color: red;
+  }
+
